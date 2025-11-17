@@ -388,8 +388,8 @@ This is a personal learning project, but I welcome feedback and suggestions!
 ## 📧 Contact
 
 **Your Name**  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/sinazarafshan/)
-- 🐙 GitHub: [@yourusername](https://github.com/sina-z)
+- 💼 LinkedIn: [https://www.linkedin.com/in/sinazarafshan/](https://www.linkedin.com/in/sinazarafshan/)
+- 🐙 GitHub: [@sina-z](https://github.com/sina-z)
 
 ---
 
