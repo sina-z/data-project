@@ -388,9 +388,8 @@ This is a personal learning project, but I welcome feedback and suggestions!
 ## 📧 Contact
 
 **Your Name**  
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/sinazarafshan/)
+- 🐙 GitHub: [@yourusername](https://github.com/sina-z)
 
 ---
 
